@@ -1,6 +1,6 @@
-# Frontend Mentor - Dictionary Web App Challenge
+# Dictioneer
 
-This is a solution to the [Template](https://www.frontendmentor.io/challenges/dictionary-web-app-h5wwnyuKFL).
+This is a solution to the [template](https://www.frontendmentor.io/challenges/dictionary-web-app-h5wwnyuKFL) by Frontend Mentor.
 
 ## Table of contents
 
